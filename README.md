@@ -2,7 +2,7 @@
 
 Cada grupo deverá: 
 
-1 - Pensar no tema do promet................................................[  ]
+1 - Pensar no tema do promet................................................[ok]
 2 - Criar um prometo no Github..............................................[OK]
 3 - Vincular o prometo do github no Zenhub .................................[OK]
 
