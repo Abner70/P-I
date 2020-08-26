@@ -2,7 +2,7 @@
 
 Cada grupo deverá: 
 
-1 - Pensar no tema do projeto...........DELIVERY---SABUWAY..................[ok]
+1 - Pensar no tema do projeto...........FOOD'D FOME-------..................[ok]
 2 - Criar um projeto no Github..............................................[OK]
 3 - Vincular o projeto do github no Zenhub .................................[OK]
 
