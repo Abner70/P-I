@@ -8,7 +8,7 @@ Cada grupo deverá:
 
 Frontend (React) ...........................................................[  ]
 Backend (livre escolha (php, nodejs, adonis, Laravel)) .....................[  ]
-Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ...................[  ]
+Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ......MY SQL.......[OK]
 
 Agradaria bastante o professor, se usasse: 
     -migrations ............................................................[  ]
